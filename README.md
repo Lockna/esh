@@ -1,6 +1,6 @@
 # esh
 
-esh aims to provide a driver for the G Pro X Superlight mouse from Logitech, since there aren't any available I'm aware of.
+esh aims to provide a driver for the G Pro X Superlight mouse from Logitech for linux, since there aren't any available I'm aware of.
 The project will provide a cli and possibly a gui for various Linux distros.
 Windows and macOS support are currently not planned, but may be added depending on my mood.
 
